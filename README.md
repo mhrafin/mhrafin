@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-<!--
-**mhrafin/mhrafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who enjoys solving problems with code.
 
-Here are some ideas to get you started:
+## 📚 Current Journey:
+I am continuously learning and growing in:
+- Backend development and APIs.
+- Discipline of Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Goals:
+- Work on useful open-source projects.
+- Build software that helps people.
+- Sharpen my skills in advanced programming and machine learning.
+
+
+<p align="left">
+  Feel free to reach out! 🚀
+  <a href="https://www.linkedin.com/in/mhrafin/">LinkedIn</a>
+</p>
+
+###  My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhrafin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
