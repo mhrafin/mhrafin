@@ -1,32 +1,9 @@
-# Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+### Hello there 👋
 
-Welcome to my GitHub profile. I'm a developer focused on solving practical problems through code. Here's a bit about me:
+#### I am a Python Developer who wants to create unique projects to impact the society positively.
 
-
-
-## About Me
-
-- **Tech Stack**:
-  - **Languages**: Python (primary focus).
-  - **Frameworks**: Flask, Tkinter, Turtle Graphics, SQLAlchemy, Jinja.
-  - **Tools**: Pandas, Matplotlib, RESTful APIs, SQLite, VS Code.
-- **Currently Learning**: Advanced Python and foundational concepts in machine learning.
-
-
-
-## Skills & Interests
-
-- **Core Skills**:
-  - Developing applications to solve everyday problems.
-  - Practical use of Python for building tools and applications.
-
-- **Interests**:
-  - Machine Learning and Artificial Intelligence.
-
-
-
-## Contact
-
-- **LinkedIn**: [mhrafin](https://www.linkedin.com/in/mhrafin/)
-
-You can explore my repositories or reach out to connect.
+<!-- - 🔭 I’m currently working as **Python Developer Intern @ Next Page Technology Ltd.** -->
+- 💬 Ask me about: Python, Flask, Tkinter, Pandas.
+- 🌱 I’m currently learning **Mathmatics for Machine Learning**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mhrafin/)
+- ⚡ Fun fact: I enjoy reading and writing about random stuff.
