@@ -1,9 +1,10 @@
-### Hello there 👋
+# I am ironma.. i mean mhrafin 👋
 
-#### I am a Python Developer who wants to create unique projects to impact the society positively.
+
+#### I am also a Python Developer who wants to create unique projects to impact the society positively.
 
 <!-- - 🔭 I’m currently working as **Python Developer Intern @ Next Page Technology Ltd.** -->
-- 💬 Ask me about: Python, Flask, Tkinter, Pandas.
+- 💬 Ask me about: Python, Flask, Tkinter, Pandas, Odoo.
 - 🌱 I’m currently learning **Mathmatics for Machine Learning**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mhrafin/)
 - ⚡ Fun fact: I enjoy reading and writing about random stuff.
