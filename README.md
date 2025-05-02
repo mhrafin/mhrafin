@@ -1,10 +1,29 @@
-# I am ironma.. i mean mhrafin 👋
+# Hi, I'm Mahedi Hassan Rafin (mhrafin) 👋  
+_I am ironma... I mean mhrafin._
 
+## 🐍 Python Developer
 
-#### I am also a Python Developer who wants to create unique projects to impact the society positively.
+I build unique, impactful software projects using Python and modern frameworks like Flask, Tkinter, Pandas, and Odoo.
 
-<!-- - 🔭 I’m currently working as **Python Developer Intern @ Next Page Technology Ltd.** -->
-- 💬 Ask me about: Python, Flask, Tkinter, Pandas, Odoo.
-- 🌱 I’m currently learning **Mathmatics for Machine Learning**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mhrafin/)
-- ⚡ Fun fact: I enjoy reading and writing about random stuff.
+---
+
+### 🔧 Technologies & Tools
+- Python, Flask, Tkinter, Pandas, NumPy
+- Odoo (ERP), PostgreSQL
+- Git, GitHub, Linux, VS Code
+
+---
+
+### 🌱 Currently Learning
+Mathematics for Machine Learning
+
+---
+
+### 📫 Reach Me  
+- GitHub: [github.com/mhrafin](https://github.com/mhrafin)  
+- LinkedIn: [linkedin.com/in/mhrafin](https://linkedin.com/in/mhrafin)
+
+---
+
+### ⚡ Fun Fact  
+I enjoy reading and writing about random stuff. Sometimes code, too.
