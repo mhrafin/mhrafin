@@ -1,29 +1,25 @@
-# Hi, I'm Mahedi Hassan Rafin (mhrafin) 👋  
-_I am ironma... I mean mhrafin._
+## Hi, I'm Raf ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-## 🐍 Python Developer
+I love reading books and writing about stuff. 
 
-I build unique, impactful software projects using Python and modern frameworks like Flask, Tkinter, Pandas, and Odoo.
 
----
 
-### 🔧 Technologies & Tools
-- Python, Flask, Tkinter, Pandas, NumPy
-- Odoo (ERP), PostgreSQL
-- Git, GitHub, Linux, VS Code
 
----
+Currently i am looking into AWS Infrastructure, Scalable Deployment and Odoo Development.
 
-### 🌱 Currently Learning
-Mathematics for Machine Learning
 
----
 
-### 📫 Reach Me  
-- GitHub: [github.com/mhrafin](https://github.com/mhrafin)  
-- LinkedIn: [linkedin.com/in/mhrafin](https://linkedin.com/in/mhrafin)
 
----
+Reach Me ~ [/in/mhrafin](https://linkedin.com/in/mhrafin)
 
-### ⚡ Fun Fact  
-I enjoy reading and writing about random stuff. Sometimes code, too.
+
+
+
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafin&layout=compact)
+
+</details>
