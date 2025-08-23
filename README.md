@@ -5,7 +5,7 @@ I love reading books and writing about stuff.
 
 
 
-Currently i am looking into AWS Infrastructure, Scalable Deployment and Odoo Development.
+Currently i am looking into Django.
 
 
 
