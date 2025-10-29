@@ -5,10 +5,6 @@ I love reading books and writing about stuff.
 
 
 
-Currently i am looking into Django.
-
-
-
 
 Reach Me ~ [/in/mhrafin](https://linkedin.com/in/mhrafin)
 
