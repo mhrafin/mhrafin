@@ -1,8 +1,8 @@
-# 📖 Rafin
+# Hello
 
 **`Software Engineer`**
 
-I identify problems, design systems to unravel them, and build those systems. I have completed Bachelor of Science in Software Engineering. Other than building systems, I read books and write out my thoughts.
+Hey there, I am Mahedi Hassan Rafin, a Software Engineer. I identify problems, design systems, and build solutions that solves problems. I have completed my Bachelor of Science in Software Engineering. Other than these, I play games, read books and try to write my findings and thoughts.
 
 ---
 
